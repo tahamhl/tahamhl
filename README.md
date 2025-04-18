@@ -8,4 +8,4 @@ Bilgisayar Mühendisliği öğrencisiyim. Web, yapay zeka ve nesnelerin internet
 
 - 🌍 [Web Sitem](https://tahamehel.tr)
 - 🎓 [Akademi Platformum](https://akademi.tahamehel.tr)
-- 💼 [LinkedIn](https://linkedin.com/in/tahamehel)
+- 💼 [LinkedIn](https://linkedin.com/in/mehmet-taha-mehel)
